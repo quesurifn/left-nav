@@ -47,7 +47,7 @@ export default class LeftNav extends Component {
             </ul>
         </div>
         <div className='sidenav-footer'>
-
+        
         </div>  
       </div>   
     );

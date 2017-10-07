@@ -1,9 +1,8 @@
 {
   "name": "react-left-nav-simple",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Redux enabled Left Nav for React",
   "main": "build/index.js",
-  "private": true,
   "dependencies": {
     "autoprefixer": "7.1.2",
     "babel-core": "6.25.0",
@@ -46,6 +45,7 @@
     "webpack-manifest-plugin": "1.2.1",
     "whatwg-fetch": "2.0.3"
   },
+  "license": "MIT",
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
@@ -101,6 +101,8 @@
     "name": "Kyle Fahey",
     "email": "Kyle.c.r.fahey@gmail.com"
   },
+
+
     "peerDependencies": {
     "react": "^15.5.4",
     "redux": "^3.7.2",
